@@ -1,4 +1,5 @@
-#📊 **Logistics Pricing Optimization Model** 
+# 📊 **Logistics Pricing Optimization Model** 
+
 ##**Overview:** This machine learning model predicts freight shipping rates by identifying patterns across various shipping conditions. It helps logistics managers automate invoice validation and uncover hidden cost drivers.
 
 ##**🔎 Key Components**
@@ -20,7 +21,7 @@ The model analyzes two main types of inputs to calculate a delivery price:
 - **Robust Cleaning:** The model automatically replaces corrupt spatial entries (like -999 mileage errors) and fills missing load parameters using localized statistical values.
 - **One-Hot Encoding:** It instantly translates textual data (like city names or carrier names) into mathematical structures that the machine learning engine can understand.
 
-# 🚚 Logistics Pricing Optimization Engine
+# 🚚 Optimization Engine Work Flow
 
 This flowchart outlines the complete end-to-end data pipeline, machine learning workflow, and interactive dashboard deployment architecture for the project. 
 
